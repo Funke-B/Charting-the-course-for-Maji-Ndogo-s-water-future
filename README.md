@@ -1,6 +1,6 @@
 # Maji-Ndogo-Water-Access-Analysis
 This project tackles critical water access challenges in Maji Ndogo. Using advanced data analysis and SQL techniques, the project identifies disparities in water accessibility, prioritizes areas for intervention, and outlines practical solutions to improve infrastructure. The repository includes structured SQL queries, data aggregation techniques, and insightful visualizations that help decision-makers drive meaningful change.
-![Project Overview](./images/Charting image.jpg)
+![Project Overview](./images/IMG_4139.jpg)   
 
 ## Core Focus of the Analysis
 
