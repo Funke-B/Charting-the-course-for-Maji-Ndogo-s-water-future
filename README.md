@@ -7,18 +7,14 @@ This project tackles critical water access challenges in Maji Ndogo. Using advan
 1 Water Source Distribution:
 - Examines the availability and types of water sources (rivers, wells, shared taps, etc.) across provinces and towns.
 - Highlights areas with the largest reliance on unsafe water sources like rivers.
-  
   Queue Times and Infrastructure Efficiency:
 - Investigates the queue times at shared taps to identify overburdened locations.
 - Detects disparities in wait times and inefficiencies in water infrastructure.
-
 2 Water Quality and Contamination:
 - Assesses contamination levels in wells, differentiating between chemical and biological pollutants.
-- Proposes specific interventions for purifying water sources.
-  
+- Proposes specific interventions for purifying water sources.  
 3 Broken Infrastructure:
-- Identifies areas where home water taps are installed but non-functional due to systemic failures in pipes, pumps, and reservoirs.
-  
+- Identifies areas where home water taps are installed but non-functional due to systemic failures in pipes, pumps, and reservoirs. 
 4 Inequalities in Access:
 - Uncovers disparities between rural and urban areas, highlighting inequitable distribution and access to clean water.
 ## Key Tasks:
